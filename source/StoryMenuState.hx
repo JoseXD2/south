@@ -55,9 +55,9 @@ class StoryMenuState extends MusicBeatState
 		"Spooky Month",
 		"PICO",
 		"MOMMY MUST MURDER",
-		"SOUTH PARK"
+		"SOUTH PARK",
 		"RED SNOW",
-		"Hating Simulator ft. Moawling"
+		"Hating Simulator ft. Moawling",
 	];
 
 	var txtWeekTitle:FlxText;
