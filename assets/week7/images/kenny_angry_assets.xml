@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kenny_angry_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kenny_angry_down0000" x="2106" y="3372" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_down0001" x="2106" y="3372" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_down0002" x="2808" y="3372" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_down0003" x="2808" y="3372" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_down0004" x="2808" y="3372" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_left0000" x="0" y="4215" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_left0001" x="0" y="4215" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_left0002" x="702" y="4215" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_left0003" x="702" y="4215" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_left0004" x="702" y="4215" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_right0000" x="1404" y="4215" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_right0001" x="1404" y="4215" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_right0002" x="2106" y="4215" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_right0003" x="2106" y="4215" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_right0004" x="2106" y="4215" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_up0000" x="2808" y="4215" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_up0001" x="2808" y="4215" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_up0002" x="0" y="5058" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_up0003" x="0" y="5058" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_up0004" x="0" y="5058" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_idle0000" x="0" y="0" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_idle0001" x="0" y="0" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_idle0002" x="0" y="0" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_idle0003" x="702" y="0" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_idle0004" x="702" y="0" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_idle0005" x="1404" y="0" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_idle0006" x="2106" y="0" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_idle0007" x="2106" y="0" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_idle0008" x="2106" y="0" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_idle0009" x="2106" y="0" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10000" x="2808" y="0" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10001" x="0" y="843" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10002" x="702" y="843" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10003" x="1404" y="843" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10004" x="2106" y="843" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10005" x="2808" y="843" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10006" x="2808" y="843" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10007" x="0" y="1686" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10008" x="702" y="1686" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10009" x="1404" y="1686" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10010" x="2106" y="1686" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10011" x="2808" y="1686" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10012" x="0" y="2529" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10013" x="702" y="2529" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10014" x="702" y="2529" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10015" x="702" y="2529" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10016" x="1404" y="2529" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10017" x="2106" y="2529" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10018" x="2808" y="2529" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10019" x="0" y="3372" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10020" x="702" y="3372" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="kenny_angry_despiste 10021" x="1404" y="3372" width="702" height="843" frameX="120" frameY="-260" frameWidth="600" frameHeight="1250"/>
+</TextureAtlas>
