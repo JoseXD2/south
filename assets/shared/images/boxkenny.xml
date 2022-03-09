@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoxKenny .png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BoxKenny 0000" x="0" y="0" width="1152" height="686"/>
+	<SubTexture name="BoxKenny 0001" x="0" y="0" width="1152" height="686"/>
+	<SubTexture name="BoxKenny 0002" x="0" y="0" width="1152" height="686"/>
+	<SubTexture name="BoxKenny 0003" x="0" y="686" width="1152" height="686"/>
+	<SubTexture name="BoxKenny 0004" x="0" y="686" width="1152" height="686"/>
+	<SubTexture name="BoxKenny 0005" x="0" y="1372" width="1152" height="686"/>
+	<SubTexture name="BoxKenny 0006" x="0" y="2058" width="1152" height="686"/>
+	<SubTexture name="BoxKenny 0007" x="0" y="2058" width="1152" height="686"/>
+	<SubTexture name="BoxKenny 0008" x="0" y="2058" width="1152" height="686"/>
+	<SubTexture name="BoxKenny 0009" x="0" y="2058" width="1152" height="686"/>
+</TextureAtlas>
