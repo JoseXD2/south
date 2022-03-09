@@ -27,6 +27,7 @@ class StoryMenuState extends MusicBeatState
 	var weekData:Array<Dynamic> = [
 		['Tutorial'],
 		['Bopeebo', 'Fresh', 'Dad Battle'],
+		['chips', 'hot-dog', 'burger', 'pizza']
 		['Spookeez', 'South', "Monster"],
 		['Pico', 'Philly Nice', "Blammed"],
 		['Satin Panties', "High", "Milf"],
@@ -44,6 +45,7 @@ class StoryMenuState extends MusicBeatState
 		['pico', 'bf', 'gf'],
 		['mom', 'bf', 'gf'],
 		['parents-christmas', 'bf', 'gf'],
+		['kenny', 'bf', 'gf']
 		['senpai', 'bf', 'gf']
 	];
 
@@ -53,6 +55,7 @@ class StoryMenuState extends MusicBeatState
 		"Spooky Month",
 		"PICO",
 		"MOMMY MUST MURDER",
+		"SOUTH PARK"
 		"RED SNOW",
 		"Hating Simulator ft. Moawling"
 	];
