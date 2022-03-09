@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kennyd.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="despiste 2 instance 10000" x="0" y="0" width="576" height="555" frameX="0" frameY="-380" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="despiste 2 instance 10001" x="576" y="0" width="576" height="555" frameX="0" frameY="-380" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="despiste 2 instance 10002" x="1152" y="0" width="576" height="555" frameX="0" frameY="-380" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="despiste 2 instance 10003" x="0" y="555" width="576" height="555" frameX="0" frameY="-380" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="despiste 2 instance 10004" x="576" y="555" width="576" height="555" frameX="0" frameY="-380" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="despiste 2 instance 10005" x="1152" y="555" width="576" height="555" frameX="0" frameY="-380" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="despiste 2 instance 10006" x="1152" y="555" width="576" height="555" frameX="0" frameY="-380" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="despiste 2 instance 10007" x="0" y="1110" width="576" height="555" frameX="0" frameY="-380" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="despiste 2 instance 10008" x="576" y="1110" width="576" height="555" frameX="0" frameY="-380" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="despiste 2 instance 10009" x="1152" y="1110" width="576" height="555" frameX="0" frameY="-380" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="despiste 2 instance 10010" x="0" y="1665" width="576" height="555" frameX="0" frameY="-380" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="despiste 2 instance 10011" x="576" y="1665" width="576" height="555" frameX="0" frameY="-380" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="despiste 2 instance 10012" x="1152" y="1665" width="576" height="555" frameX="0" frameY="-380" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="despiste 2 instance 10013" x="0" y="2220" width="576" height="555" frameX="0" frameY="-380" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="despiste 2 instance 10014" x="576" y="2220" width="583" height="732" frameX="0" frameY="-380" frameWidth="600" frameHeight="1250"/>
+	<SubTexture name="despiste 2 instance 10015" x="1159" y="2220" width="600" height="1250"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lluviendo.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lluvia 2 instance 10000" x="0" y="0" width="2264" height="2628" frameX="0" frameY="0" frameWidth="2430" frameHeight="3992"/>
+	<SubTexture name="lluvia 2 instance 10001" x="0" y="0" width="2264" height="2628" frameX="-19" frameY="-152" frameWidth="2430" frameHeight="3992"/>
+	<SubTexture name="lluvia 2 instance 10002" x="0" y="0" width="2264" height="2628" frameX="-37" frameY="-304" frameWidth="2430" frameHeight="3992"/>
+	<SubTexture name="lluvia 2 instance 10003" x="0" y="0" width="2264" height="2628" frameX="-56" frameY="-455" frameWidth="2430" frameHeight="3992"/>
+	<SubTexture name="lluvia 2 instance 10004" x="0" y="0" width="2264" height="2628" frameX="-74" frameY="-607" frameWidth="2430" frameHeight="3992"/>
+	<SubTexture name="lluvia 2 instance 10005" x="0" y="0" width="2264" height="2628" frameX="-93" frameY="-758" frameWidth="2430" frameHeight="3992"/>
+	<SubTexture name="lluvia 2 instance 10006" x="0" y="0" width="2264" height="2628" frameX="-111" frameY="-910" frameWidth="2430" frameHeight="3992"/>
+	<SubTexture name="lluvia 2 instance 10007" x="0" y="0" width="2264" height="2628" frameX="-130" frameY="-1061" frameWidth="2430" frameHeight="3992"/>
+	<SubTexture name="lluvia 2 instance 10008" x="0" y="0" width="2264" height="2628" frameX="-148" frameY="-1213" frameWidth="2430" frameHeight="3992"/>
+	<SubTexture name="lluvia 2 instance 10009" x="0" y="0" width="2264" height="2628" frameX="-166" frameY="-1364" frameWidth="2430" frameHeight="3992"/>
+</TextureAtlas>
