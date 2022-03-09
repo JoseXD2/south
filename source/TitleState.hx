@@ -23,7 +23,6 @@ import flixel.tweens.FlxEase;
 import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
 import flixel.util.FlxTimer;
-import io.newgrounds.NG;
 import lime.app.Application;
 import openfl.Assets;
 
@@ -53,14 +52,14 @@ class TitleState extends MusicBeatState
 
 	override public function create():Void
 	{
-		#if polymod
+		/*#if polymod
 		polymod.Polymod.init({modRoot: "mods", dirs: ['introMod']});
-		#end
+		#end*/
 		
-		#if sys
+		/*#if sys
 		if (!sys.FileSystem.exists(Sys.getCwd() + "/assets/replays"))
 			sys.FileSystem.createDirectory(Sys.getCwd() + "/assets/replays");
-		#end
+		#end*/
 
 		@:privateAccess
 		{
@@ -165,27 +164,36 @@ class TitleState extends MusicBeatState
 		Conductor.changeBPM(102);
 		persistentUpdate = true;
 
-		var bg:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('city'));
-		bg.setGraphicSize(Std.int(bg.width * 1.1));
-		bg.updateHitbox();
-		bg .screenCenter();
-		bg.antialiasing = true;
+		var bg:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
+		// bg.antialiasing = true;
+		// bg.setGraphicSize(Std.int(bg.width * 0.6));
+		// bg.updateHitbox();
 		add(bg);
 
 		if(Main.watermarks) {
-			logoBl = new FlxSprite(530, -35);
-		    logoBl.frames = Paths.getSparrowAtlas('cartelKN');
-		    logoBl.antialiasing = true;
-		    logoBl.animation.addByPrefix('bump', 'cartel', 24);
-		    logoBl.animation.play('bump');
-		    logoBl.updateHitbox();
-		    // logoBl.screenCenter();
-		    // logoBl.color = FlxColor.BLACK;
+			logoBl = new FlxSprite(-150, -100);
+			logoBl.frames = Paths.getSparrowAtlas('KadeEngineLogoBumpin');
+			logoBl.antialiasing = true;
+			logoBl.animation.addByPrefix('bump', 'logo bumpin', 24);
+			logoBl.animation.play('bump');
+			logoBl.updateHitbox();
+			// logoBl.screenCenter();
+			// logoBl.color = FlxColor.BLACK;
+		} else {
+			logoBl = new FlxSprite(-150, -100);
+			logoBl.frames = Paths.getSparrowAtlas('logoBumpin');
+			logoBl.antialiasing = true;
+			logoBl.animation.addByPrefix('bump', 'logo bumpin', 24);
+			logoBl.animation.play('bump');
+			logoBl.updateHitbox();
+			// logoBl.screenCenter();
+			// logoBl.color = FlxColor.BLACK;
 		}
 
 		gfDance = new FlxSprite(FlxG.width * 0.4, FlxG.height * 0.07);
-		gfDance.frames = Paths.getSparrowAtlas('KNTitle');
-		gfDance.animation.addByIndices('danceLeft', 'knTitle 2', [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], "", 24, true);
+		gfDance.frames = Paths.getSparrowAtlas('gfDanceTitle');
+		gfDance.animation.addByIndices('danceLeft', 'gfDance', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
+		gfDance.animation.addByIndices('danceRight', 'gfDance', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
 		gfDance.antialiasing = true;
 		add(gfDance);
 		add(logoBl);
@@ -284,14 +292,6 @@ class TitleState extends MusicBeatState
 
 		if (pressedEnter && !transitioning && skippedIntro)
 		{
-			#if !switch
-			NGio.unlockMedal(60960);
-
-			// If it's Friday according to da clock
-			if (Date.now().getDay() == 5)
-				NGio.unlockMedal(61034);
-			#end
-
 			if (FlxG.save.data.flashing)
 				titleText.animation.play('press');
 
@@ -307,24 +307,22 @@ class TitleState extends MusicBeatState
 			{
 				// Get current version of Kade Engine
 				
-				var http = new haxe.Http("lol");
+				var http = new haxe.Http("https://raw.githubusercontent.com/KadeDev/Kade-Engine/master/version.downloadMe");
 				var returnedData:Array<String> = [];
 				
 				http.onData = function (data:String)
 				{
 					returnedData[0] = data.substring(0, data.indexOf(';'));
 					returnedData[1] = data.substring(data.indexOf('-'), data.length);
-				  	if (!MainMenuState.kadeEngineVer.contains(returnedData[0].trim()) && !OutdatedSubState.leftState && MainMenuState.nightly == "")
+				  	/*if (!MainMenuState.kadeEngineVer.contains(returnedData[0].trim()) && !OutdatedSubState.leftState && MainMenuState.nightly == "")
 					{
 						trace('outdated lmao! ' + returnedData[0] + ' != ' + MainMenuState.kadeEngineVer);
 						OutdatedSubState.needVer = returnedData[0];
 						OutdatedSubState.currChanges = returnedData[1];
 						FlxG.switchState(new OutdatedSubState());
 					}
-					else
-					{
-						FlxG.switchState(new MainMenuState());
-					}
+					else*/
+					FlxG.switchState(new MainMenuState());
 				}
 				
 				http.onError = function (error) {
@@ -379,7 +377,6 @@ class TitleState extends MusicBeatState
 	{
 		super.beatHit();
 
-		FlxTween.tween(FlxG.camera, {zoom:1.02}, 0.3, {ease: FlxEase.quadOut, type: BACKWARD});
 		logoBl.animation.play('bump');
 		danceLeft = !danceLeft;
 
@@ -393,8 +390,12 @@ class TitleState extends MusicBeatState
 		switch (curBeat)
 		{
 			case 1:
-				createCoolText(['Coscuardo3', 'Present']);
+				createCoolText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er']);
 			// credTextShit.visible = true;
+			case 3:
+				addMoreText('present');
+			// credTextShit.text += '\npresent...';
+			// credTextShit.addText();
 			case 4:
 				deleteCoolText();
 			// credTextShit.visible = false;
@@ -439,12 +440,9 @@ class TitleState extends MusicBeatState
 				addMoreText('Night');
 			// credTextShit.text += '\nNight';
 			case 15:
-				addMoreText('Funkin'); 
-		    // credTextShit.text += '\nFunkin';
-            case 16:
-				addMoreText('Vs KENNY'); // credTextShit.text += '\nVs KENNY';
+				addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
 
-			case 17:
+			case 16:
 				skipIntro();
 		}
 	}
