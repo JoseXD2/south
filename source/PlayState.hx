@@ -740,6 +740,118 @@ class PlayState extends MusicBeatState
 						stageCurtains.active = false;
 	
 						add(stageCurtains);
+			}
+			case 'chips':
+			{
+					defaultCamZoom = 0.85;
+					curStage = 'week7';
+					var bg:FlxSprite = new FlxSprite(-500, -180).loadGraphic(Paths.image('weeb/bus1'));
+					bg.antialiasing = true;
+					bg.scrollFactor.set(0.95, 0.95);
+					bg.active = false;
+					add(bg);
+
+					var stageFront:FlxSprite = new FlxSprite(-650, -300).loadGraphic(Paths.image('xd'));
+					stageFront.setGraphicSize(Std.int(stageFront.width * 1.1));
+					stageFront.updateHitbox();
+					stageFront.antialiasing = true;
+					stageFront.scrollFactor.set(0.9, 0.9);
+					stageFront.active = false;
+					add(stageFront);
+			}
+			case 'hot-dog':
+			{
+					defaultCamZoom = 0.85;
+					curStage = 'week7';
+					var bg:FlxSprite = new FlxSprite(-500, -180).loadGraphic(Paths.image('weeb/bus2'));
+					bg.antialiasing = true;
+					bg.scrollFactor.set(0.95, 0.95);
+					bg.active = false;
+					add(bg);
+
+					var stageFront:FlxSprite = new FlxSprite(-650, -300).loadGraphic(Paths.image('xd'));
+					stageFront.setGraphicSize(Std.int(stageFront.width * 1.1));
+					stageFront.updateHitbox();
+					stageFront.antialiasing = true;
+					stageFront.scrollFactor.set(0.9, 0.9);
+					stageFront.active = false;
+					add(stageFront);
+			}
+			case 'burger':
+			{
+					defaultCamZoom = 0.85;
+					curStage = 'sis';
+					var bg:FlxSprite = new FlxSprite(-550, -180).loadGraphic(Paths.image('weeb/bus3'));
+					bg.antialiasing = true;
+					bg.scrollFactor.set(0.95, 0.95);
+					bg.active = false;
+					add(bg);
+
+					var stageFront:FlxSprite = new FlxSprite(-650, -300).loadGraphic(Paths.image('xd'));
+					stageFront.setGraphicSize(Std.int(stageFront.width * 1.1));
+					stageFront.updateHitbox();
+					stageFront.antialiasing = true;
+					stageFront.scrollFactor.set(0.9, 0.9);
+					stageFront.active = false;
+					add(stageFront);
+			       }
+			case 'pizza':
+			{
+					defaultCamZoom = 0.85;
+					curStage = 'sas';
+					var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('weeb/techo'));
+					bg.antialiasing = true;
+					bg.scrollFactor.set(0.95, 0.95);
+					bg.active = false;
+					add(bg);
+
+					var stageFront:FlxSprite = new FlxSprite(-650, -300).loadGraphic(Paths.image('xd'));
+					stageFront.setGraphicSize(Std.int(stageFront.width * 1.1));
+					stageFront.updateHitbox();
+					stageFront.antialiasing = true;
+					stageFront.scrollFactor.set(0.9, 0.9);
+					stageFront.active = false;
+					add(stageFront);
+
+					var lluvia:FlxSprite = new FlxSprite(-600, -2250);
+					lluvia.frames = Paths.getSparrowAtlas('weeb/lluviendo');
+					lluvia.animation.addByPrefix('idle', "lluvia 2", 24);
+					lluvia.antialiasing = true;
+					lluvia.scrollFactor.set(0.9, 0.9);
+					lluvia.setGraphicSize(Std.int(lluvia.width * 1.7));
+                                        lluvia.animation.play('idle');
+					lluvia.updateHitbox();
+					lluvia.alpha = 0.4;
+						//add(lluvia);
+			          }
+			case 'expurgation-of-the-south':
+			{
+					defaultCamZoom = 0.8;
+					curStage = 'sos';
+					var bg:FlxSprite = new FlxSprite(-530, -180).loadGraphic(Paths.image('weeb/cementerio'));
+					bg.antialiasing = true;
+					bg.scrollFactor.set(0.95, 0.95);
+					bg.active = false;
+					add(bg);
+
+					var stageFront:FlxSprite = new FlxSprite(-650, -300).loadGraphic(Paths.image('xd'));
+					stageFront.setGraphicSize(Std.int(stageFront.width * 1.1));
+					stageFront.updateHitbox();
+					stageFront.antialiasing = true;
+					stageFront.scrollFactor.set(0.9, 0.9);
+					stageFront.active = false;
+					add(stageFront);
+
+					var lluvia:FlxSprite = new FlxSprite(-600, -650);
+					lluvia.frames = Paths.getSparrowAtlas('weeb/niebla');
+					lluvia.animation.addByPrefix('idle', "humo", 24);
+					lluvia.antialiasing = true;
+					lluvia.scrollFactor.set(0.9, 0.9);
+					lluvia.setGraphicSize(Std.int(lluvia.width * 1.7));
+                                        lluvia.animation.play('idle');
+					lluvia.updateHitbox();
+					lluvia.alpha = 0.4;
+						//add(lluvia);
 				}
 			default:
 			{
