@@ -6,3 +6,8 @@ mall
 mallEvil
 school
 schoolEvil
+chips
+hot-dog
+burger
+pizza
+expurgation-of-the-south

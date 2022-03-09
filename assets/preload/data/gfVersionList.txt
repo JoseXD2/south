@@ -1,4 +1,6 @@
 gf
 gf-car
+gf-kenny
 gf-christmas
 gf-pixel
+gf-sol
