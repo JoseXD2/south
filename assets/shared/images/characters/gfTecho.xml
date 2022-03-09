@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfTecho.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0000" x="0" y="0" width="699" height="634" frameX="-2" frameY="-15" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0001" x="699" y="0" width="703" height="634" frameX="0" frameY="-15" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0002" x="1402" y="0" width="728" height="626" frameX="0" frameY="-23" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0003" x="2130" y="0" width="699" height="625" frameX="-2" frameY="-24" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0004" x="2829" y="0" width="699" height="638" frameX="-2" frameY="-11" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0005" x="0" y="638" width="699" height="638" frameX="-2" frameY="-11" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0006" x="699" y="638" width="727" height="636" frameX="-2" frameY="-13" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0007" x="1426" y="638" width="702" height="647" frameX="-2" frameY="-2" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0008" x="2128" y="638" width="749" height="639" frameX="-2" frameY="-10" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0009" x="2877" y="638" width="699" height="638" frameX="-2" frameY="-11" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0010" x="0" y="1285" width="712" height="649" frameX="-2" frameY="0" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0011" x="0" y="1285" width="712" height="649" frameX="-2" frameY="0" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0012" x="712" y="1285" width="757" height="641" frameX="-2" frameY="-8" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0013" x="1469" y="1285" width="711" height="648" frameX="-2" frameY="-1" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0014" x="2180" y="1285" width="755" height="640" frameX="-2" frameY="-9" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0015" x="2935" y="1285" width="712" height="625" frameX="-2" frameY="-24" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0016" x="0" y="1934" width="729" height="634" frameX="0" frameY="-15" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0017" x="729" y="1934" width="722" height="631" frameX="0" frameY="-18" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0018" x="1451" y="1934" width="766" height="623" frameX="-2" frameY="-26" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0019" x="2217" y="1934" width="721" height="634" frameX="-2" frameY="-15" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0020" x="2938" y="1934" width="766" height="626" frameX="-2" frameY="-23" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0021" x="0" y="2568" width="707" height="630" frameX="-2" frameY="-19" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0022" x="707" y="2568" width="716" height="646" frameX="-2" frameY="-3" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0023" x="707" y="2568" width="716" height="646" frameX="-2" frameY="-3" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0024" x="1423" y="2568" width="759" height="638" frameX="-2" frameY="-11" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0025" x="2182" y="2568" width="714" height="647" frameX="-2" frameY="-2" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0026" x="2896" y="2568" width="756" height="639" frameX="-2" frameY="-10" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0027" x="0" y="3215" width="699" height="638" frameX="-2" frameY="-11" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0028" x="699" y="3215" width="712" height="646" frameX="-2" frameY="-3" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0029" x="699" y="3215" width="712" height="646" frameX="-2" frameY="-3" frameWidth="774" frameHeight="649"/>
+	<SubTexture name="GF FEAR 0000" x="1411" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0001" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0002" x="2809" y="3215" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0003" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0004" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0005" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0006" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0007" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0008" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0009" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0010" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0011" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0012" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0013" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0014" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0015" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0016" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0017" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0018" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0019" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0020" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0021" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0022" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0023" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0024" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0025" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0026" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0027" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0028" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0029" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0030" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0031" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0032" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0033" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0034" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0035" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0036" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0037" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0038" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0039" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0040" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0041" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0042" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0043" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0044" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0045" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0046" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0047" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0048" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0049" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0050" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0051" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0052" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0053" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0054" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0055" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0056" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0057" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0058" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0059" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0060" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0061" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0062" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0063" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0064" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0065" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0066" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0067" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0068" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0069" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0070" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0071" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0072" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0073" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0074" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0075" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0076" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0077" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0078" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0079" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0080" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0081" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0082" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0083" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0084" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0085" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0086" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0087" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0088" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0089" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0090" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0091" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0092" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0093" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0094" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0095" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0096" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0097" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0098" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0099" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0100" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0101" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0102" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0103" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0104" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0105" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0106" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0107" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0108" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0109" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0110" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0111" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0112" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0113" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0114" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0115" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0116" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0117" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0118" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0119" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0120" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0121" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0122" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0123" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0124" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0125" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0126" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0127" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0128" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0129" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0130" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0131" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0132" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0133" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0134" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0135" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0136" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0137" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0138" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0139" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0140" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0141" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0142" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0143" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0144" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0145" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0146" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0147" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0148" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0149" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0150" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0151" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0152" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0153" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0154" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0155" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0156" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0157" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0158" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0159" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0160" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0161" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0162" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0163" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0164" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0165" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0166" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0167" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0168" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0169" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0170" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0171" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0172" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0173" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0174" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0175" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0176" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0177" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0178" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0179" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0180" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0181" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0182" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0183" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0184" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0185" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0186" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0187" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0188" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0189" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0190" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0191" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0192" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0193" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0194" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0195" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0196" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0197" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0198" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0199" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0200" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0201" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0202" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0203" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0204" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0205" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0206" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0207" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0208" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0209" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0210" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0211" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0212" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0213" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0214" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0215" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0216" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0217" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0218" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0219" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0220" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0221" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0222" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0223" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0224" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0225" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0226" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0227" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0228" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0229" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0230" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0231" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0232" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0233" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0234" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0235" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0236" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0237" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0238" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0239" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0240" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0241" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0242" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0243" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0244" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0245" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0246" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0247" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0248" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0249" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0250" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0251" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0252" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0253" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0254" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0255" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0256" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0257" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0258" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0259" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0260" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0261" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0262" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0263" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0264" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0265" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0266" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0267" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0268" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0269" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0270" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0271" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0272" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0273" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0274" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0275" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0276" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0277" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0278" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0279" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0280" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0281" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0282" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0283" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0284" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0285" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0286" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0287" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0288" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0289" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0290" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0291" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0292" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0293" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0294" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0295" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0296" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0297" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0298" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0299" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0300" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0301" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0302" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0303" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0304" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0305" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0306" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0307" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0308" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0309" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0310" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0311" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0312" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0313" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0314" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0315" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0316" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0317" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0318" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0319" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0320" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0321" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0322" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0323" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0324" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0325" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0326" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0327" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0328" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0329" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0330" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0331" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0332" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0333" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0334" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0335" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0336" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0337" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0338" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0339" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0340" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0341" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0342" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0343" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0344" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0345" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0346" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0347" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0348" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0349" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0350" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0351" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0352" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0353" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0354" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0355" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0356" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0357" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0358" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0359" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0360" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0361" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0362" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0363" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0364" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0365" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0366" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0367" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0368" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0369" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0370" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0371" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0372" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0373" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0374" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0375" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0376" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0377" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0378" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0379" x="0" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0380" x="699" y="3861" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0381" x="2110" y="3215" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0382" x="1398" y="3861" width="699" height="638" frameX="0" frameY="-2" frameWidth="699" frameHeight="640"/>
+	<SubTexture name="GF FEAR 0383" x="0" y="3861" width="699" height="640"/>
+</TextureAtlas>

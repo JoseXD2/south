@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kenny-zombie.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KNZZ down0000" x="452" y="552" width="452" height="552"/>
+	<SubTexture name="KNZZ down0001" x="904" y="552" width="452" height="552"/>
+	<SubTexture name="KNZZ down0002" x="1356" y="552" width="452" height="552"/>
+	<SubTexture name="KNZZ down0003" x="0" y="1104" width="452" height="552"/>
+	<SubTexture name="KNZZ down0004" x="0" y="1104" width="452" height="552"/>
+	<SubTexture name="KNZ left0000" x="452" y="1104" width="452" height="552"/>
+	<SubTexture name="KNZ left0001" x="452" y="1104" width="452" height="552"/>
+	<SubTexture name="KNZ left0002" x="904" y="1104" width="452" height="552"/>
+	<SubTexture name="KNZ left0003" x="904" y="1104" width="452" height="552"/>
+	<SubTexture name="KNZ left0004" x="904" y="1104" width="452" height="552"/>
+	<SubTexture name="KNZ right0000" x="1356" y="1104" width="452" height="552"/>
+	<SubTexture name="KNZ right0001" x="1356" y="1104" width="452" height="552"/>
+	<SubTexture name="KNZ right0002" x="0" y="1656" width="452" height="552"/>
+	<SubTexture name="KNZ right0003" x="0" y="1656" width="452" height="552"/>
+	<SubTexture name="KNZ right0004" x="0" y="1656" width="452" height="552"/>
+	<SubTexture name="KNZ up0000" x="452" y="1656" width="452" height="552"/>
+	<SubTexture name="KNZ up0001" x="452" y="1656" width="452" height="552"/>
+	<SubTexture name="KNZ up0002" x="904" y="1656" width="452" height="552"/>
+	<SubTexture name="KNZ up0003" x="904" y="1656" width="452" height="552"/>
+	<SubTexture name="KNZ up0004" x="904" y="1656" width="452" height="552"/>
+	<SubTexture name="KNZ idle0000" x="0" y="0" width="452" height="552"/>
+	<SubTexture name="KNZ idle0001" x="0" y="0" width="452" height="552"/>
+	<SubTexture name="KNZ idle0002" x="0" y="0" width="452" height="552"/>
+	<SubTexture name="KNZ idle0003" x="452" y="0" width="452" height="552"/>
+	<SubTexture name="KNZ idle0004" x="452" y="0" width="452" height="552"/>
+	<SubTexture name="KNZ idle0005" x="904" y="0" width="452" height="552"/>
+	<SubTexture name="KNZ idle0006" x="1356" y="0" width="452" height="552"/>
+	<SubTexture name="KNZ idle0007" x="0" y="552" width="452" height="552"/>
+	<SubTexture name="KNZ idle0008" x="0" y="552" width="452" height="552"/>
+	<SubTexture name="KNZ idle0009" x="0" y="552" width="452" height="552"/>
+</TextureAtlas>
