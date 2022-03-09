@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cartelBF.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cabeza0000" x="0" y="0" width="1157" height="1070"/>
+	<SubTexture name="cabeza0001" x="0" y="0" width="1157" height="1070"/>
+	<SubTexture name="cabeza0002" x="1157" y="0" width="1157" height="1070"/>
+	<SubTexture name="cabeza0003" x="1157" y="0" width="1157" height="1070"/>
+	<SubTexture name="cabeza0004" x="2314" y="0" width="1157" height="1070"/>
+	<SubTexture name="cabeza0005" x="2314" y="0" width="1157" height="1070"/>
+	<SubTexture name="cabeza0006" x="0" y="1070" width="1157" height="1070"/>
+	<SubTexture name="cabeza0007" x="0" y="1070" width="1157" height="1070"/>
+	<SubTexture name="cabeza0008" x="1157" y="1070" width="1157" height="1070"/>
+	<SubTexture name="cabeza0009" x="1157" y="1070" width="1157" height="1070"/>
+</TextureAtlas>
